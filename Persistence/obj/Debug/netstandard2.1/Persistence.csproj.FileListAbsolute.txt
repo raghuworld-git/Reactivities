@@ -1,0 +1,12 @@
+C:\Workspace\ReactTraining\Reactivities\Persistence\bin\Debug\netstandard2.1\Persistence.deps.json
+C:\Workspace\ReactTraining\Reactivities\Persistence\bin\Debug\netstandard2.1\Persistence.dll
+C:\Workspace\ReactTraining\Reactivities\Persistence\bin\Debug\netstandard2.1\Persistence.pdb
+C:\Workspace\ReactTraining\Reactivities\Persistence\bin\Debug\netstandard2.1\Domain.dll
+C:\Workspace\ReactTraining\Reactivities\Persistence\bin\Debug\netstandard2.1\Domain.pdb
+C:\Workspace\ReactTraining\Reactivities\Persistence\obj\Debug\netstandard2.1\Persistence.csprojAssemblyReference.cache
+C:\Workspace\ReactTraining\Reactivities\Persistence\obj\Debug\netstandard2.1\Persistence.AssemblyInfoInputs.cache
+C:\Workspace\ReactTraining\Reactivities\Persistence\obj\Debug\netstandard2.1\Persistence.AssemblyInfo.cs
+C:\Workspace\ReactTraining\Reactivities\Persistence\obj\Debug\netstandard2.1\Persistence.csproj.CoreCompileInputs.cache
+C:\Workspace\ReactTraining\Reactivities\Persistence\obj\Debug\netstandard2.1\Persistence.csproj.CopyComplete
+C:\Workspace\ReactTraining\Reactivities\Persistence\obj\Debug\netstandard2.1\Persistence.dll
+C:\Workspace\ReactTraining\Reactivities\Persistence\obj\Debug\netstandard2.1\Persistence.pdb

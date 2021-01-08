@@ -1,0 +1,9 @@
+C:\Workspace\ReactTraining\Reactivities\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+C:\Workspace\ReactTraining\Reactivities\Domain\bin\Debug\netstandard2.1\Domain.dll
+C:\Workspace\ReactTraining\Reactivities\Domain\bin\Debug\netstandard2.1\Domain.pdb
+C:\Workspace\ReactTraining\Reactivities\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+C:\Workspace\ReactTraining\Reactivities\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+C:\Workspace\ReactTraining\Reactivities\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+C:\Workspace\ReactTraining\Reactivities\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Workspace\ReactTraining\Reactivities\Domain\obj\Debug\netstandard2.1\Domain.dll
+C:\Workspace\ReactTraining\Reactivities\Domain\obj\Debug\netstandard2.1\Domain.pdb
