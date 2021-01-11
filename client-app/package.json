@@ -7,12 +7,14 @@
     "@types/node": "12.6.8",
     "@types/react": "16.8.23",
     "@types/react-dom": "16.8.4",
+    "@types/uuid": "^8.3.0",
     "axios": "^0.19.2",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-scripts": "3.0.1",
     "semantic-ui-react": "^0.87.3",
-    "typescript": "3.5.3"
+    "typescript": "3.5.3",
+    "uuid": "^8.3.2"
   },
   "scripts": {
     "start": "react-scripts start",
